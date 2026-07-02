@@ -1,6 +1,6 @@
-# 💫 Hi 👋, I'm Nimra Batool
+#  Hi 👋, I'm Nimra Batool
 
-Email Me 👉 ✉️ **nimrabatool5582@gmail.com** For Collaboration/Project. 😊😊
+Email Me  ✉️ **nimrabatool5582@gmail.com** For Collaboration/Project. 😊😊
 
 I'm a Software Engineering student passionate about building secure, intelligent, and user-centric mobile applications. My interests span mobile development, AI integration, game development, and modern software engineering.<br><br>🔭 Currently building AI-powered and secure Flutter applications<br>📱 Developing cross-platform mobile apps with Flutter<br>🤖 Exploring AI/ML for Mobile Applications using TensorFlow Lite<br>🔐 Learning Mobile Application Security and secure software development<br>🎮 Creating 2D & 3D games with Unity and C#<br>💼 Open to collaboration on Flutter, AI/ML, and Unity projects<br>🧠 Interested in: Mobile Development, AI/ML, Mobile Security, Unity Game Development
 
