@@ -1,5 +1,15 @@
-# 💫 About Me:
-🤝 I’m looking to collaborate on<br>- Flutter Mobile Applications<br>- AI/ML-Powered Mobile Solutions<br>- Mobile Security Projects<br>- Unity Game Development<br><br>🫶 I’m looking for help with<br>- AI/ML Integration in Mobile Apps<br>- Mobile Application Security<br>- Backend Development<br><br>🌱 I’m currently learning<br>- AI & Machine Learning<br>- Mobile Application Security<br>- TensorFlow Lite<br>- Clean Architecture in Flutter<br><br>💬 Ask me about<br>- Mobile App Development<br>- AI in Mobile Applications<br>- Mobile Application Security<br>- Unity Game Development<br>- REST APIs<br>- Git & GitHub<br>
+## 👩‍💻 About Me
+
+I'm a Software Engineering student passionate about building secure, intelligent, and user-centric mobile applications. My interests span mobile development, AI integration, game development, and modern software engineering.
+
+🔭 Currently building AI-powered and secure Flutter applications  
+📱 Developing cross-platform mobile apps with Flutter  
+🤖 Exploring AI/ML for Mobile Applications using TensorFlow Lite  
+🔐 Learning Mobile Application Security and secure software development  
+🎮 Creating 2D & 3D games with Unity and C#  
+⚙️ Building backend-powered applications with Node.js and REST APIs  
+💼 Open to collaboration on Flutter, AI/ML, and Unity projects  
+🧠 Interested in: Mobile Development, AI/ML, Mobile Security, Unity Game Development, and Backend Engineering
 
 
 ## 🌐 Socials:
