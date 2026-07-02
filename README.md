@@ -7,9 +7,8 @@ I'm a Software Engineering student passionate about building secure, intelligent
 🤖 Exploring AI/ML for Mobile Applications using TensorFlow Lite  
 🔐 Learning Mobile Application Security and secure software development  
 🎮 Creating 2D & 3D games with Unity and C#  
-⚙️ Building backend-powered applications with Node.js and REST APIs  
 💼 Open to collaboration on Flutter, AI/ML, and Unity projects  
-🧠 Interested in: Mobile Development, AI/ML, Mobile Security, Unity Game Development, and Backend Engineering
+🧠 Interested in: Mobile Development, AI/ML, Mobile Security, Unity Game Development
 
 
 ## 🌐 Socials:
